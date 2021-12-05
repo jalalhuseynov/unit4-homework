@@ -1,7 +1,6 @@
 # unit4-homework
-this is unit-4 homework files
 
-This was a very hard and a long assignment. I tried my best. I realize that more practice will make it better in the future.
+This was a very hard and long assignment. I tried my best. I realize that more practice will make it better in the future.
 
 ## New csv files added to Resources folder
 
